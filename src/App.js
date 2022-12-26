@@ -1,7 +1,11 @@
+import React from 'react';
+import Tooltip from './components/Tooltip';
 function App() {
   return (
     <div className='App'>
-      <div>tooltip</div>
+      <Tooltip content='Tooltip App' direction='bottom'>
+        <span>Hover Over Me!</span>
+      </Tooltip>
     </div>
   );
 }
