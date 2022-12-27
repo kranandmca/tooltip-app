@@ -3,7 +3,7 @@ import Tooltip from './components/Tooltip';
 function App() {
   return (
     <div className='App'>
-      <Tooltip content='Tooltip App' direction='bottom'>
+      <Tooltip content="Thanks for hovering! I'm a tooltip" direction='bottom'>
         <span>Hover Over Me!</span>
       </Tooltip>
     </div>
