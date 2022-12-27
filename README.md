@@ -15,7 +15,7 @@ Create a simple tooltip component such that when We hover over a button it shows
 # Tools used for hosting
 - Vercel
 - Git
-# Live project API Link
+# Live project Link
 https://tooltip-app.vercel.app/
 
 # Steps to set project locally[Windows]
